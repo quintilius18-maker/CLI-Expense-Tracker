@@ -1,4 +1,4 @@
-````md
+
 # Architecture Overview
 
 ## Data Flow
